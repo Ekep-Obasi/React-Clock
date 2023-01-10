@@ -1,0 +1,13 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.wrapper {
+  border: 1px solid black;
+  padding: 50px;
+  border-radius: 12px;
+}
